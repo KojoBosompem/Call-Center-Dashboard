@@ -5,4 +5,7 @@ This project focuses on visualising 5 Key Performance Indicators of a company’
 ## Data Sources
 The data for this project was sourced from Kaggle. A world-renowned website for all type of free yet real business data for all types of analysis. The primary dataset for this project is the Call Centre Data csv file, which contains columns such as **Call Representative**, **Customer ID**, **Call Duration**, **Date of Call**, **Customer Number**, **Satisfaction Rating**, and other calculated columns.
 ## Tools Used
-Only Microsoft Excel was used in from beginning to end in this project. However, a number of data analytical skills and procedures were employed in this project. Microsoft Excel Power Query was used to clean data by removing white spaces and unwanted characters.   Data Cleaning, Pivot Tables and Charts, and Data Visualization.
+- Microsoft Excel. Only Microsoft Excel was used in from beginning to end in this project. However, a number of data analytical skills and procedures were employed in this project. Microsoft Excel Power Query was used to clean data by removing white spaces and unwanted characters, and to remove duplicates. I created 7 Pivot Tables which were used to visualise all the key performance metrics. [Download Microsoft Excel here](https://microsoft.com)
+
+
+
